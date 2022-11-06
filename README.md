@@ -12,8 +12,8 @@ SUBSCRIBE YOUTUBE THE JO BOT [`YouTube`](https://youtube.com/channel/UC-wt99jFVc
 
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`THEJO307/jo-v-10`](https://github.com/THEJO307/jo-v-10)
-* WhatsApp Bot Multi Device [`THEJO307/jo-v-10`](https://github.com/THEJO307/jo-v-10)
+* WhatsApp Bot normal [`THEJO307/jo-v10`](https://github.com/THEJO307/jo-v10)
+* WhatsApp Bot Multi Device [`THEJO307/jo-v10`](https://github.com/THEJO307/jo-v10)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -24,8 +24,8 @@ SUBSCRIBE YOUTUBE THE JO BOT [`YouTube`](https://youtube.com/channel/UC-wt99jFVc
 
 
 ```bash
-git https://github.com/THEJO307/jo-v-10
-cd jo-v-10
+git https://github.com/THEJO307/jo-v10
+cd jo-v10
 npm install
 ```
 
@@ -45,8 +45,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/THEJO307/jo-v-10
-cd jo-v-10
+git clone https://github.com/THEJO307/jo-v10
+cd jo-v10
 npm install
 ```
 
@@ -66,7 +66,7 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/THEJO307/jo-v-10/blob/master/config.js)
+Editing Number Owner & session name in [`config.js`](https://github.com/THEJO307/jo-v10/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
