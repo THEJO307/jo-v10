@@ -6,7 +6,7 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 </p>
 <h1 align="center">THE_JO_BOT</h1>
 # SUBSCRIBE YOUTUBE THE JO BOT
-* [`YouTube`](https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w)
+[`YouTube`](https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w)
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
